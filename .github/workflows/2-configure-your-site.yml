@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - my-pages
+      - pages-test
     paths:
       - _config.yml
 
